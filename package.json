@@ -1,0 +1,26 @@
+{
+  "name": "debeerandomgen",
+  "version": "1.0.0",
+  "description": "A package that generates random alphanumeric characters of any length you specify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debeemedia/debeerandomgen.git"
+  },
+  "keywords": [
+    "random",
+    "generator",
+    "randomgen",
+    "number",
+    "randomnumber"
+  ],
+  "author": "Deborah Okeke (deBee)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debeemedia/debeerandomgen/issues"
+  },
+  "homepage": "https://github.com/debeemedia/debeerandomgen#readme"
+}
